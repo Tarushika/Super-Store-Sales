@@ -1,4 +1,4 @@
-![Superstore_Sales_Dashboard](https://github.com/user-attachments/assets/cda2ec60-fd69-46c1-b8b2-596f8f0f3db8)# Super-Store-Sales
+
 Overview:- 
     Developed a dynamic Super Store Sales Dashboard using Power BI, offering comprehensive insights into sales trends, customer behavior, and product performance.
  Visualization Variety:-
@@ -13,3 +13,7 @@ Forecasting Model:-
       Utilize Power BI's built-in forecasting capabilities to predict sales for the last 15 days based on historical data. Adjust parameters to optimize forecast           accuracy.
 Regular Updates:- 
       Schedule automated data refreshes to keep the dashboard current with the latest sales data and forecasts.
+
+![Superstore_Sales_Dashboard](https://github.com/user-attachments/assets/cda2ec60-fd69-46c1-b8b2-596f8f0f3db8)# Super-Store-Sales
+![Forecast-15 days](https://github.com/user-attachments/assets/e5a89cab-546a-4dfe-a84c-40950ba14f9b)
+
