@@ -17,7 +17,7 @@ Data Integration:-
  
 Date Handling:- 
 
- Set up date tables and ensure proper date formats for accurate time-based analysis and forecasting. 
+ Set up date tables and ensure proper date formats for accurate time-based analysis and forecasting.
  
 Forecasting Model:-
 
